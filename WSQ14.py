@@ -1,4 +1,4 @@
-def def e(a):
+def e(a):
 	x=a
 	e=(1+1/x)**x
 	return float(e)
